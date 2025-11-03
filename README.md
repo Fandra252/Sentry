@@ -1,0 +1,1 @@
+Sentry-Nextjs\support-ticketing-system-sentry-nextjs => DATABASE_URL="postgresql://neondb_owner:npg_PAWhMLX4eH5O@ep-long-math-ad1anq2w-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
